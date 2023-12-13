@@ -1,0 +1,39 @@
+|clk_multiplier
+CLK_OUT_1 <= inst15.DB_MAX_OUTPUT_PORT_TYPE
+SET => inst3.PRESET
+SET => inst2.PRESET
+SET => inst1.PRESET
+SET => inst.PRESET
+SET => inst10.PRESET
+SET => inst9.PRESET
+SET => inst8.PRESET
+SET => inst7.PRESET
+CLR => inst3.ACLR
+CLR => inst2.ACLR
+CLR => inst1.ACLR
+CLR => inst.ACLR
+CLR => inst10.ACLR
+CLR => inst9.ACLR
+CLR => inst8.ACLR
+CLR => inst7.ACLR
+T => inst3.IN0
+T => inst2.IN0
+T => inst1.IN0
+T => inst.IN0
+T => inst10.IN0
+T => inst9.IN0
+T => inst8.IN0
+T => inst7.IN0
+CLK_IN_1 => inst.CLK
+CLK_OUT_2 <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+CLK_IN_2 => inst7.CLK
+C_OUT <= inst40.DB_MAX_OUTPUT_PORT_TYPE
+C_IN => inst21.IN0
+C_IN => inst19.IN1
+C_IN => inst18.IN1
+S0 <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= inst23.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= inst29.DB_MAX_OUTPUT_PORT_TYPE
+S3 <= inst35.DB_MAX_OUTPUT_PORT_TYPE
+
+

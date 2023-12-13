@@ -1,0 +1,15 @@
+|decoder2_4
+LR[0] => Equal0.IN1
+LR[0] => Equal1.IN0
+LR[0] => Equal2.IN1
+LR[0] => Equal3.IN1
+LR[1] => Equal0.IN0
+LR[1] => Equal1.IN1
+LR[1] => Equal2.IN0
+LR[1] => Equal3.IN0
+LO[0] <= LO[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+LO[1] <= LO[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+LO[2] <= LO[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+LO[3] <= LO[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+

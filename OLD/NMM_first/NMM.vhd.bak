@@ -1,0 +1,25 @@
+library ieee;
+use std_logic_1164.all;
+
+entity NMM is
+port
+(
+	SQR_IN, SQR_OUT, CLK: in std_logic;
+	_1, _2, _3: out std_logic_vector (7 downto 0)
+);
+end NMM;
+
+architecture NMM.arch of NMM is
+	_1<=number;
+begin
+	process(SQR_IN, SQR_OUT)
+		variable number: integer;
+		begin
+			if(SQR_IN'event and SQR_IN='1') then
+				while(not(SQR_OUT'event and SQR_OUT='1')) then
+					if(CLK'event and CLK='1') then
+						number:=number+1;
+					end if;
+			end if;
+	end process;
+end NMM;

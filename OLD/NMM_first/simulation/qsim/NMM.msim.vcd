@@ -1,0 +1,580 @@
+$comment
+	File created using the following command:
+		vcd file NMM.msim.vcd -direction
+$end
+$date
+	Fri Aug 18 20:34:15 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module NMM_vlg_vec_tst $end
+$var reg 1 ! CLK $end
+$var reg 1 " SQR_IN $end
+$var reg 1 # SQR_OUT $end
+$var wire 1 $ a [31] $end
+$var wire 1 % a [30] $end
+$var wire 1 & a [29] $end
+$var wire 1 ' a [28] $end
+$var wire 1 ( a [27] $end
+$var wire 1 ) a [26] $end
+$var wire 1 * a [25] $end
+$var wire 1 + a [24] $end
+$var wire 1 , a [23] $end
+$var wire 1 - a [22] $end
+$var wire 1 . a [21] $end
+$var wire 1 / a [20] $end
+$var wire 1 0 a [19] $end
+$var wire 1 1 a [18] $end
+$var wire 1 2 a [17] $end
+$var wire 1 3 a [16] $end
+$var wire 1 4 a [15] $end
+$var wire 1 5 a [14] $end
+$var wire 1 6 a [13] $end
+$var wire 1 7 a [12] $end
+$var wire 1 8 a [11] $end
+$var wire 1 9 a [10] $end
+$var wire 1 : a [9] $end
+$var wire 1 ; a [8] $end
+$var wire 1 < a [7] $end
+$var wire 1 = a [6] $end
+$var wire 1 > a [5] $end
+$var wire 1 ? a [4] $end
+$var wire 1 @ a [3] $end
+$var wire 1 A a [2] $end
+$var wire 1 B a [1] $end
+$var wire 1 C a [0] $end
+$var wire 1 D sampler $end
+$scope module i1 $end
+$var wire 1 E gnd $end
+$var wire 1 F vcc $end
+$var wire 1 G unknown $end
+$var tri1 1 H devclrn $end
+$var tri1 1 I devpor $end
+$var tri1 1 J devoe $end
+$var wire 1 K SQR_IN~input_o $end
+$var wire 1 L SQR_OUT~input_o $end
+$var wire 1 M CLK~input_o $end
+$var wire 1 N a[0]~output_o $end
+$var wire 1 O a[1]~output_o $end
+$var wire 1 P a[2]~output_o $end
+$var wire 1 Q a[3]~output_o $end
+$var wire 1 R a[4]~output_o $end
+$var wire 1 S a[5]~output_o $end
+$var wire 1 T a[6]~output_o $end
+$var wire 1 U a[7]~output_o $end
+$var wire 1 V a[8]~output_o $end
+$var wire 1 W a[9]~output_o $end
+$var wire 1 X a[10]~output_o $end
+$var wire 1 Y a[11]~output_o $end
+$var wire 1 Z a[12]~output_o $end
+$var wire 1 [ a[13]~output_o $end
+$var wire 1 \ a[14]~output_o $end
+$var wire 1 ] a[15]~output_o $end
+$var wire 1 ^ a[16]~output_o $end
+$var wire 1 _ a[17]~output_o $end
+$var wire 1 ` a[18]~output_o $end
+$var wire 1 a a[19]~output_o $end
+$var wire 1 b a[20]~output_o $end
+$var wire 1 c a[21]~output_o $end
+$var wire 1 d a[22]~output_o $end
+$var wire 1 e a[23]~output_o $end
+$var wire 1 f a[24]~output_o $end
+$var wire 1 g a[25]~output_o $end
+$var wire 1 h a[26]~output_o $end
+$var wire 1 i a[27]~output_o $end
+$var wire 1 j a[28]~output_o $end
+$var wire 1 k a[29]~output_o $end
+$var wire 1 l a[30]~output_o $end
+$var wire 1 m a[31]~output_o $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0C
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+xD
+0E
+1F
+xG
+1H
+1I
+1J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+0Z
+0[
+0\
+0]
+0^
+0_
+0`
+0a
+0b
+0c
+0d
+0e
+0f
+0g
+0h
+0i
+0j
+0k
+0l
+0m
+$end
+#10000
+1!
+1M
+0D
+#20000
+0!
+0M
+1D
+#30000
+1!
+1M
+0D
+#40000
+1"
+0!
+1K
+0M
+1D
+#50000
+1!
+1M
+0D
+#60000
+0!
+0M
+1D
+#70000
+1!
+1M
+0D
+#80000
+0!
+0M
+1D
+#90000
+1!
+1M
+0D
+#100000
+0!
+0M
+1D
+#110000
+1!
+1M
+0D
+#120000
+1#
+0!
+1L
+0M
+1D
+#130000
+1!
+1M
+0D
+#140000
+0!
+0M
+1D
+#150000
+1!
+1M
+0D
+#160000
+0!
+0M
+1D
+#170000
+1!
+1M
+0D
+#180000
+0!
+0M
+1D
+#190000
+1!
+1M
+0D
+#200000
+0"
+0!
+0K
+0M
+1D
+#210000
+1!
+1M
+0D
+#220000
+0!
+0M
+1D
+#230000
+1!
+1M
+0D
+#240000
+0!
+0M
+1D
+#250000
+1!
+1M
+0D
+#260000
+0!
+0M
+1D
+#270000
+1!
+1M
+0D
+#280000
+0#
+0!
+0L
+0M
+1D
+#290000
+1!
+1M
+0D
+#300000
+0!
+0M
+1D
+#310000
+1!
+1M
+0D
+#320000
+0!
+0M
+1D
+#330000
+1!
+1M
+0D
+#340000
+0!
+0M
+1D
+#350000
+1!
+1M
+0D
+#360000
+0!
+0M
+1D
+#370000
+1!
+1M
+0D
+#380000
+0!
+0M
+1D
+#390000
+1!
+1M
+0D
+#400000
+0!
+0M
+1D
+#410000
+1!
+1M
+0D
+#420000
+0!
+0M
+1D
+#430000
+1!
+1M
+0D
+#440000
+0!
+0M
+1D
+#450000
+1!
+1M
+0D
+#460000
+0!
+0M
+1D
+#470000
+1!
+1M
+0D
+#480000
+0!
+0M
+1D
+#490000
+1!
+1M
+0D
+#500000
+0!
+0M
+1D
+#510000
+1!
+1M
+0D
+#520000
+0!
+0M
+1D
+#530000
+1!
+1M
+0D
+#540000
+0!
+0M
+1D
+#550000
+1!
+1M
+0D
+#560000
+0!
+0M
+1D
+#570000
+1!
+1M
+0D
+#580000
+0!
+0M
+1D
+#590000
+1!
+1M
+0D
+#600000
+0!
+0M
+1D
+#610000
+1!
+1M
+0D
+#620000
+0!
+0M
+1D
+#630000
+1!
+1M
+0D
+#640000
+0!
+0M
+1D
+#650000
+1!
+1M
+0D
+#660000
+0!
+0M
+1D
+#670000
+1!
+1M
+0D
+#680000
+0!
+0M
+1D
+#690000
+1!
+1M
+0D
+#700000
+0!
+0M
+1D
+#710000
+1!
+1M
+0D
+#720000
+0!
+0M
+1D
+#730000
+1!
+1M
+0D
+#740000
+0!
+0M
+1D
+#750000
+1!
+1M
+0D
+#760000
+0!
+0M
+1D
+#770000
+1!
+1M
+0D
+#780000
+0!
+0M
+1D
+#790000
+1!
+1M
+0D
+#800000
+0!
+0M
+1D
+#810000
+1!
+1M
+0D
+#820000
+0!
+0M
+1D
+#830000
+1!
+1M
+0D
+#840000
+0!
+0M
+1D
+#850000
+1!
+1M
+0D
+#860000
+0!
+0M
+1D
+#870000
+1!
+1M
+0D
+#880000
+0!
+0M
+1D
+#890000
+1!
+1M
+0D
+#900000
+0!
+0M
+1D
+#910000
+1!
+1M
+0D
+#920000
+0!
+0M
+1D
+#930000
+1!
+1M
+0D
+#940000
+0!
+0M
+1D
+#950000
+1!
+1M
+0D
+#960000
+0!
+0M
+1D
+#970000
+1!
+1M
+0D
+#980000
+0!
+0M
+1D
+#990000
+1!
+1M
+0D
+#1000000

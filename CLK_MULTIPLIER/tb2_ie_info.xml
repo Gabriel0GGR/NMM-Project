@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!--Created by Liquid XML 2008 (www.liquid-technologies.com) for Altera-->
+<ProgramExecution xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+	<QuartusExecution>
+		<AddressBits>64</AddressBits>
+		<ApplicationError>
+		<Bits>64</Bits>
+		<CommandLine>quartus H:\CLK_MULTIPLIER\clk_multiplier.qpf</CommandLine>
+		<ErrorMessage>_chdir (directory) == 0</ErrorMessage>
+		<Line>367</Line>
+		<Platform>windows</Platform>
+		<SourceFile>/quartus/ccl/thr/thr_interprocess.cpp</SourceFile>
+		<StackTrace>
+	0x7ffc526514a2: (thr_set_debug_func + 0x62)
+	0x7ffc526548e7: (thr_is_pid_active + 0x467)
+	0x7ffc52654e68: (thr_ip_rw_sem_create + 0x28)
+	0x7ffc2bd0a387: (??0PROJ_PROJECT@@AEAA@AEBV?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@0_N@Z + 0x537)
+	0x7ffc2bd0b4ea: (?open@PROJ_PROJECT@@SA?AW4PROJ_STATUS@@AEBV?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@0_N@Z + 0x4fa)
+	0x7ffc1a487ca3: (?open_project@QUI_PRJ_UI_MGR@@UEAA_NAEBV?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@0@Z + 0x5f3)
+	0x7ffc1a45615f: (?process_cmdline_arguments_post_main_wnd_show@QUI_APP@@MEAAXPEAVQUI_CMDLINE@@@Z + 0x39f)
+	0x7ffc1a457659: (?init_instance@QUI_APP@@UEAA_NHPEAPEBDPEAVQUI_CMDLINE@@@Z + 0x4a9)
+	0x7ffc528388d7: (?init_instance@QGQ_APP@@UEAA_NHPEAPEBDPEAVQUI_CMDLINE@@@Z + 0xe7)
+	0x7ff748fa1084:
+	0x7ffc1a5ea7f8: (?msg_exe_fini@@YAXXZ + 0x58)
+	0x7ffc1a5eaf3c: (?msg_exe_fini@@YAXXZ + 0x79c)
+	0x7ffc1a7e1f14: (??1MEM_SEGMENT_INTERNAL@@UEAA@XZ + 0x194)
+	0x7ffc1a5eb8bf: (?msg_exe_main@@YAHHPEAPEBDP6AHH0@Z@Z + 0x8f)
+	0x7ff748fa1ab2:
+	0x7ff748fa13de:
+	0x7ffc8945257c: (BaseThreadInitThunk + 0x1c)
+	0x7ffc89c0aa77: (RtlUserThreadStart + 0x27)
+		</StackTrace>
+		<Subsystem>THR</Subsystem>
+	</ApplicationError>
+	<Compilation>
+			<CompileID>0</CompileID>
+			<DeviceFamily/>
+			<IncrementalCompilation/>
+			<TopLevelEntityName/>
+		</Compilation>
+		<DateInvoked>2023/08/28 21:34:31</DateInvoked>
+		<ElapsedTime>8</ElapsedTime>
+		<IP>172.24.0.1,172.27.240.1,26.182.105.187,192.168.56.1,10.2.0.2,192.168.15.102</IP>
+		<IsInternal>false</IsInternal>
+		<IsQt>true</IsQt>
+		<License>
+			<Edition>Web Edition</Edition>
+			<LicenseHostID/>
+		</License>
+		<Machine>
+			<CPUCountLogical>8</CPUCountLogical>
+			<CPUCountPhysical>1</CPUCountPhysical>
+			<CPUSpeed>2496</CPUSpeed>
+			<Hostname>Gabriel</Hostname>
+			<NIC>
+				<Address>706979a76075</Address>
+			</NIC>
+			<NIC>
+				<Address>0a002700001c</Address>
+			</NIC>
+			<NIC>
+				<Address>0250708d18f1</Address>
+			</NIC>
+			<NIC>
+				<Address>00155d0b65a8</Address>
+			</NIC>
+			<NIC>
+				<Address>00155d98e593</Address>
+			</NIC>
+			<NIC>
+				<Address>00ff90fde328</Address>
+			</NIC>
+			<NIC>
+				<Address>00fffdfcd997</Address>
+			</NIC>
+			<NIC>
+				<Address>00ffc696560d</Address>
+			</NIC>
+			<OS>Windows 7</OS>
+			<OSAddressBits>64</OSAddressBits>
+			<OSVersion>6.2</OSVersion>
+			<Platform>windows</Platform>
+			<ScreenResolution>unknown</ScreenResolution>
+			<TotalPhysicalRAM>24407</TotalPhysicalRAM>
+			<TotalVirtualRAM>13824</TotalVirtualRAM>
+		</Machine>
+		<Name>quartus</Name>
+		<PeakMemoryUsed>0</PeakMemoryUsed>
+		<ProjectRevision>
+			<ProjectName/>
+			<Revision/>
+		</ProjectRevision>
+		<QuartusInstallation>
+			<InstallationID>0</InstallationID>
+			<Version>
+				<Build>162</Build>
+				<BuildSite>SJ</BuildSite>
+				<BuildSuffix/>
+				<Edition>Web Edition</Edition>
+				<ServicePack>0</ServicePack>
+				<VersionNumber>13.1</VersionNumber>
+			</Version>
+		</QuartusInstallation>
+		<QuartusUser>
+			<AlteraUserName/>
+			<FAEContactName/>
+			<TalkbackStatus>
+				<DateSet/>
+				<TalkbackOn>true</TalkbackOn>
+			</TalkbackStatus>
+			<UserID>123598314889333.16777267693158</UserID>
+			<UserName>gabri</UserName>
+		</QuartusUser>
+	</QuartusExecution>
+	<SchemaVersion>schema_2013-01-18</SchemaVersion>
+</ProgramExecution>
+

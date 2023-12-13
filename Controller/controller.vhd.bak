@@ -1,0 +1,42 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity controller is
+port
+(
+	clk, b0, b1, b2, b3, reset: in std_logic;
+	act: out unsigned range 0 to 7;
+	at, t, mc: out unsigned range 0 to 999;
+	avg: out std_logic;
+)
+end entity
+
+architecture ctrl_arch of controller is
+	type state is(S0,S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S12,S13,S14,S15);
+	signal as, ns:state;
+begin
+process(clk,reset)
+begin
+	if(reset='0')
+		then as<=S0;
+	elsif(clk'event and clk='1')
+		then as<=ns;
+	end if;
+end process;
+process(as)
+begin
+	case as is
+	when S0=>
+		act<=0;
+		if(b3='1') then
+			ns<=S1;
+		end if;
+	when S1=>
+		act<=1;
+		if(b3='1') then
+			ns<=S0;
+		end if;
+	end case
+end process;
+end architecture;

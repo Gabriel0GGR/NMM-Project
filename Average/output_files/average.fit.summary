@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Nov 26 18:43:05 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : average
+Top-level Entity Name : average
+Family : Cyclone IV E
+Device : EP4CE6E22C6
+Timing Models : Final
+Total logic elements : 530 / 6,272 ( 8 % )
+    Total combinational functions : 515 / 6,272 ( 8 % )
+    Dedicated logic registers : 87 / 6,272 ( 1 % )
+Total registers : 87
+Total pins : 50 / 92 ( 54 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 2 / 30 ( 7 % )
+Total PLLs : 0 / 2 ( 0 % )

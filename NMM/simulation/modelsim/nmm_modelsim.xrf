@@ -1,0 +1,9 @@
+vendor_name = ModelSim
+source_file = 1, E:/altera/13.1/NMM/nmm.bdf
+source_file = 1, E:/altera/13.1/NMM/db/nmm.cbx.xml
+design_name = nmm
+instance = comp, \pin_name1~output\, pin_name1~output, nmm, 1
+instance = comp, \pin_name2~output\, pin_name2~output, nmm, 1
+instance = comp, \clk~input\, clk~input, nmm, 1
+instance = comp, \sqr_in~input\, sqr_in~input, nmm, 1
+instance = comp, \sqr_out~input\, sqr_out~input, nmm, 1

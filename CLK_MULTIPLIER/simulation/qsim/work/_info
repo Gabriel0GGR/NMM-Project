@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\altera\13.1\CLK_MULTIPLIER\simulation\qsim
+vclk_multiplier
+Z1 IIMHzamSKoHlZ;bGBBDfzR1
+Z2 VbzJ=^N4;gzmbQc7iKiDoG0
+Z3 dE:\altera\13.1\CLK_MULTIPLIER\simulation\qsim
+Z4 w1692486381
+Z5 8clk_multiplier.vo
+Z6 Fclk_multiplier.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|clk_multiplier.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 8YY:;A3L72Y1O6T`BinEU0
+!s85 0
+Z11 !s108 1692486381.763000
+Z12 !s107 clk_multiplier.vo|
+!s101 -O0
+vclk_multiplier_vlg_check_tst
+!i10b 1
+Z13 !s100 M345EOmUJZ20ai3zh>;G[1
+Z14 IPX8MFl3j0?F2F155lFE>I0
+Z15 VWNz7RmgzN1eQ3B<j7Y41;0
+R3
+Z16 w1692486380
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 67
+R7
+r1
+!s85 0
+31
+Z19 !s108 1692486381.811000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R9
+vclk_multiplier_vlg_sample_tst
+!i10b 1
+Z22 !s100 IW1I@CYNjZGbL;l]ozGUX2
+Z23 IzfF>[R0bE:i@c5R9Pi89o2
+Z24 V==RE9Uh800z2iWoFU9E<B3
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vclk_multiplier_vlg_vec_tst
+!i10b 1
+Z25 !s100 K`bdk^H10S5gZYi7aRSPc0
+Z26 I9o5FY0YYFI4Ae;@YTPT3O0
+Z27 VTk6hzDHUjXKl628o1GNI:3
+R3
+R16
+R17
+R18
+Z28 L0 324
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

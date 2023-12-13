@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity counter is
+port
+(
+	clk, trg:in std_logic;
+	t:buffer unsigned(9 downto 0)
+);
+end entity;
+
+architecture counter_arch of counter is
+begin
+process(clk, trg)
+	variable clk_div: integer range 0 to 50000000;
+begin
+	if(trg='0') then
+		if(clk'event and clk='1') then
+			clk_div:=clk_div+1;
+			if(clk_div=50000000) then
+				clk_div:=0;
+				t<=t+"0000000001";
+			end if;
+		end if;
+	end if;
+end process;
+end architecture;

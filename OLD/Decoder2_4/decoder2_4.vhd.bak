@@ -1,0 +1,30 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity decoder2_4 is
+port
+(
+	LR:in std_logic_vector(1 downto 0);
+	LO:out std_logic_vector(3 downto 0)
+);
+
+architecture decoder_arch of decoder2_4 is
+begin
+signal Q std_logic_vector(3 downto 0);
+	process(LR)
+	begin
+		if(LR="00") then
+			Q<="0001"
+		end if;
+		if(LR="01") then
+			Q<="0010"
+		end if;
+		if(LR="10") then
+			Q<="0100"
+		end if;
+		if(LR="11") then
+			Q<="1000"
+		end if;
+	end process;
+LO<=Q;
+end architecture;

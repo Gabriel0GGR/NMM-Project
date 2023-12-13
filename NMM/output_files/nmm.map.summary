@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Dec 12 14:24:10 2023
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : nmm
+Top-level Entity Name : nmm
+Family : Cyclone IV E
+Total logic elements : 4,502
+    Total combinational functions : 4,448
+    Dedicated logic registers : 195
+Total registers : 195
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 2
+Total PLLs : 0

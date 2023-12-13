@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'as.S5'
+Slack : -6.992
+TNS   : -6.992
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -3.906
+TNS   : -74.690
+
+Type  : Slow 1200mV 85C Model Setup 'b0'
+Slack : -3.665
+TNS   : -73.597
+
+Type  : Slow 1200mV 85C Model Setup 'b3'
+Slack : -0.862
+TNS   : -0.922
+
+Type  : Slow 1200mV 85C Model Hold 'b0'
+Slack : 0.326
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'b3'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'as.S5'
+Slack : 3.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -39.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'b0'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'b3'
+Slack : -3.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'as.S5'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'as.S5'
+Slack : -6.312
+TNS   : -6.312
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -3.367
+TNS   : -62.019
+
+Type  : Slow 1200mV 0C Model Setup 'b0'
+Slack : -3.217
+TNS   : -63.614
+
+Type  : Slow 1200mV 0C Model Setup 'b3'
+Slack : -0.686
+TNS   : -0.686
+
+Type  : Slow 1200mV 0C Model Hold 'b0'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'b3'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'as.S5'
+Slack : 3.049
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -39.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'b0'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'b3'
+Slack : -3.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'as.S5'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'as.S5'
+Slack : -3.767
+TNS   : -3.767
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.736
+TNS   : -26.693
+
+Type  : Fast 1200mV 0C Model Setup 'b0'
+Slack : -1.701
+TNS   : -34.928
+
+Type  : Fast 1200mV 0C Model Setup 'b3'
+Slack : -0.427
+TNS   : -0.427
+
+Type  : Fast 1200mV 0C Model Hold 'b0'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'b3'
+Slack : 0.214
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'as.S5'
+Slack : 2.069
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -41.317
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'b0'
+Slack : -3.000
+TNS   : -33.433
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'b3'
+Slack : -3.000
+TNS   : -10.448
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'as.S5'
+Slack : 0.450
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,52 @@
+# do nmm.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module nmm
+# -- Compiling module hard_block
+# 
+# Top level modules:
+# 	nmm
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module nmm_vlg_vec_tst
+# 
+# Top level modules:
+# 	nmm_vlg_vec_tst
+# vsim -L cycloneive_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.nmm_vlg_vec_tst 
+# Loading work.nmm_vlg_vec_tst
+# Loading work.nmm
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_mac_mult
+# Loading cycloneive_ver.cycloneive_mac_data_reg
+# Loading cycloneive_ver.cycloneive_mac_sign_reg
+# Loading cycloneive_ver.cycloneive_mac_mult_internal
+# Loading cycloneive_ver.cycloneive_mac_out
+# ** Error: (vsim-3389) nmm.vt(63): Port 'dd0' not found in the connected module (6th connection).
+# 
+#         Region: /nmm_vlg_vec_tst/i1
+# ** Error: (vsim-3389) nmm.vt(63): Port 'dd1' not found in the connected module (7th connection).
+# 
+#         Region: /nmm_vlg_vec_tst/i1
+# ** Error: (vsim-3389) nmm.vt(63): Port 'dd2' not found in the connected module (8th connection).
+# 
+#         Region: /nmm_vlg_vec_tst/i1
+# ** Error: (vsim-3389) nmm.vt(63): Port 'dd3' not found in the connected module (9th connection).
+# 
+#         Region: /nmm_vlg_vec_tst/i1
+# ** Error: (vsim-3389) nmm.vt(63): Port 'dd4' not found in the connected module (10th connection).
+# 
+#         Region: /nmm_vlg_vec_tst/i1
+# ** Error: (vsim-3389) nmm.vt(63): Port 'dd5' not found in the connected module (11th connection).
+# 
+#         Region: /nmm_vlg_vec_tst/i1
+# ** Fatal: (vsim-3365) nmm.vt(63): Too many port connections. Expected 9, found 13.
+#    Time: 0 ps  Iteration: 0  Instance: /nmm_vlg_vec_tst/i1 File: nmm.vo
+# FATAL ERROR while loading design
+# Error loading design

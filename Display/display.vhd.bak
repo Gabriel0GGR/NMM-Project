@@ -1,0 +1,38 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity display is
+port
+(
+	clk, avg: in std_logic;
+	act: in unsigned(2 downto 0);
+	at, t, mc: in unsigned(9 downto 0);
+	d0, d1, d2, d3, d4 ,d5: out unsigned(7 downto 0)
+);
+end entity;
+
+architecture display_arch of display is
+	
+begin
+process(act)
+begin
+	case act is
+	when "000"=>
+		--d<=abcdefgp)
+		d0<="10110110";
+		d1<="00011110";
+		d2<="11111010";
+		d3<="00001010";
+		d4<="00011110";
+		d5<="00000000";
+	when others=>
+		d0<="10011110";
+		d1<="00001010";
+		d2<="00001010";
+		d3<="00111010";
+		d4<="00001010";
+		d5<="00000000";
+	end case;
+end process;
+end architecture;

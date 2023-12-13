@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\altera\13.1\NMM\simulation\qsim
+vNMM
+Z1 IS6`EiGGLe4Pd?hQ>fD=DZ0
+Z2 VKJPLXU[9<BPFHI6Y^0fzJ3
+Z3 dE:\altera\13.1\NMM\simulation\qsim
+Z4 w1692397354
+Z5 8NMM.vo
+Z6 FNMM.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|NMM.vo|
+Z9 o-work work -O0
+Z10 n@n@m@m
+Z11 !s100 TE3<cVh2O3>SIf7XP0]Vm1
+Z12 !s108 1692397356.516000
+Z13 !s107 NMM.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vnmm
+Z14 IOWL;iV:gFY:fIF;>LK7fM3
+Z15 VN6d]=K:REP05Ro6R<cW9M1
+R3
+Z16 w1692401654
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+!i10b 1
+Z17 !s100 G[>:lUKUn?zW4N59c2:Y>3
+!s85 0
+Z18 !s108 1692401655.196000
+R13
+!s101 -O0
+vnmm_vlg_check_tst
+!i10b 1
+!s100 ID^44^Dc3JIEQXfl7]U<X2
+I_Ua]hz31cQ5hYVA20h0f02
+V[IFo=S^WD`UMJIV=bWJF@3
+R3
+Z19 w1692401653
+Z20 8Waveform.vwf.vt
+Z21 FWaveform.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z22 !s108 1692401655.267000
+Z23 !s107 Waveform.vwf.vt|
+Z24 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R9
+vNMM_vlg_check_tst
+Z25 !s100 U>SPm>=WV]l59c<I3OW?[1
+Z26 I8ggVe7@S_=TJPl4dBfnLN3
+Z27 Via18oBjSJ1bjBd`cENBH@3
+R3
+Z28 w1692397353
+R20
+R21
+L0 61
+R7
+r1
+31
+Z29 !s108 1692397356.576000
+Z30 !s107 Waveform.vwf.vt|
+R24
+R9
+Z31 n@n@m@m_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vnmm_vlg_sample_tst
+!i10b 1
+Z32 !s100 e`82`7kPhVPb3m68XbmDj2
+Z33 IV>BWhEf[897TN1z3aA9[?0
+Z34 VJQ4TUP[dK?geoK7Y`<ml=0
+R3
+R19
+R20
+R21
+L0 29
+R7
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+R9
+vNMM_vlg_sample_tst
+Z35 !s100 JO5L<emm@];o3=RFLFPC?1
+Z36 I0n0VkihMi<5<50FH<i[8@3
+Z37 VFkCN;:l>zNb39442?>3KN1
+R3
+R28
+R20
+R21
+L0 29
+R7
+r1
+31
+R29
+R30
+R24
+R9
+Z38 n@n@m@m_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vnmm_vlg_vec_tst
+!i10b 1
+!s100 VXK2eG6?RUfdQCY0Y^S?o3
+IobEb<OG`QTWL8XaMibWeM0
+Z39 V5jnjEL?79nzLjZi_NN8oD0
+R3
+R19
+R20
+R21
+L0 718
+R7
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+R9
+vNMM_vlg_vec_tst
+Z40 In:KAKV<EaX1=HLF9RP9be2
+Z41 VHQ_^oQ^O@XQ>Ea4Jfg]z[3
+R3
+R28
+R20
+R21
+Z42 L0 713
+R7
+r1
+31
+R29
+R30
+R24
+R9
+Z43 n@n@m@m_vlg_vec_tst
+Z44 !s100 6^:mzK8Cb:C99BUfomW4m3
+!i10b 1
+!s85 0
+!s101 -O0

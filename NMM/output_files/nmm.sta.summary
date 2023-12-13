@@ -1,0 +1,1589 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm3|inst2'
+Slack : -66.269
+TNS   : -1139.539
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm3|inst8'
+Slack : -65.846
+TNS   : -1128.338
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm3|inst9'
+Slack : -65.552
+TNS   : -1120.789
+
+Type  : Slow 1200mV 85C Model Setup 'controller:ctrl|as.S6'
+Slack : -65.500
+TNS   : -1131.315
+
+Type  : Slow 1200mV 85C Model Setup 'controller:ctrl|as.S5'
+Slack : -65.050
+TNS   : -1128.845
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm3|inst1'
+Slack : -65.038
+TNS   : -1107.731
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm3|inst7'
+Slack : -64.981
+TNS   : -1106.168
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm3|inst'
+Slack : -64.764
+TNS   : -1100.247
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst9'
+Slack : -64.318
+TNS   : -1090.168
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst2'
+Slack : -64.294
+TNS   : -1088.476
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst8'
+Slack : -63.751
+TNS   : -1074.350
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst3'
+Slack : -63.725
+TNS   : -1073.601
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst10'
+Slack : -63.639
+TNS   : -1071.402
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst1'
+Slack : -63.531
+TNS   : -1068.932
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst7'
+Slack : -63.092
+TNS   : -1057.279
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm2|inst'
+Slack : -62.914
+TNS   : -1052.950
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst9'
+Slack : -62.137
+TNS   : -1032.957
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst10'
+Slack : -62.087
+TNS   : -1030.798
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst3'
+Slack : -61.952
+TNS   : -1027.681
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst8'
+Slack : -61.693
+TNS   : -1021.111
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst2'
+Slack : -61.369
+TNS   : -1012.091
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst'
+Slack : -61.102
+TNS   : -1005.593
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst7'
+Slack : -61.047
+TNS   : -1003.983
+
+Type  : Slow 1200mV 85C Model Setup 'clk_multiplier:clkm1|inst1'
+Slack : -61.013
+TNS   : -1003.216
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -37.424
+TNS   : -891.056
+
+Type  : Slow 1200mV 85C Model Setup 'b0'
+Slack : -4.324
+TNS   : -83.956
+
+Type  : Slow 1200mV 85C Model Setup 'b3'
+Slack : -0.733
+TNS   : -4.389
+
+Type  : Slow 1200mV 85C Model Setup 'sqr_in'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst1'
+Slack : -8.396
+TNS   : -81.238
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst7'
+Slack : -8.353
+TNS   : -80.496
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst'
+Slack : -8.250
+TNS   : -79.466
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst2'
+Slack : -8.032
+TNS   : -77.286
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst3'
+Slack : -7.674
+TNS   : -73.706
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst8'
+Slack : -7.629
+TNS   : -73.256
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst10'
+Slack : -7.565
+TNS   : -72.616
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm1|inst9'
+Slack : -7.138
+TNS   : -68.346
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst'
+Slack : -6.274
+TNS   : -59.959
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst7'
+Slack : -6.119
+TNS   : -58.156
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst3'
+Slack : -5.739
+TNS   : -54.356
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst1'
+Slack : -5.694
+TNS   : -54.151
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst10'
+Slack : -5.676
+TNS   : -53.726
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst8'
+Slack : -5.438
+TNS   : -51.450
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst2'
+Slack : -4.885
+TNS   : -45.816
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm2|inst9'
+Slack : -4.844
+TNS   : -45.406
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -4.624
+TNS   : -141.506
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm3|inst'
+Slack : -4.431
+TNS   : -41.326
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm3|inst7'
+Slack : -4.216
+TNS   : -39.126
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm3|inst1'
+Slack : -4.165
+TNS   : -38.714
+
+Type  : Slow 1200mV 85C Model Hold 'sqr_in'
+Slack : -3.922
+TNS   : -7.712
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm3|inst9'
+Slack : -3.664
+TNS   : -33.606
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm3|inst8'
+Slack : -3.335
+TNS   : -30.316
+
+Type  : Slow 1200mV 85C Model Hold 'clk_multiplier:clkm3|inst2'
+Slack : -2.824
+TNS   : -25.227
+
+Type  : Slow 1200mV 85C Model Hold 'controller:ctrl|as.S5'
+Slack : -2.700
+TNS   : -24.099
+
+Type  : Slow 1200mV 85C Model Hold 'controller:ctrl|as.S6'
+Slack : -1.952
+TNS   : -17.020
+
+Type  : Slow 1200mV 85C Model Hold 'b0'
+Slack : -0.396
+TNS   : -3.233
+
+Type  : Slow 1200mV 85C Model Hold 'b3'
+Slack : 1.157
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst'
+Slack : -6.208
+TNS   : -6.208
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst3'
+Slack : -6.041
+TNS   : -6.041
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst2'
+Slack : -6.014
+TNS   : -6.014
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst8'
+Slack : -5.997
+TNS   : -5.997
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm3|inst'
+Slack : -5.962
+TNS   : -5.962
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst9'
+Slack : -5.898
+TNS   : -5.898
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm3|inst9'
+Slack : -5.814
+TNS   : -5.814
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst9'
+Slack : -5.772
+TNS   : -5.772
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst10'
+Slack : -5.678
+TNS   : -5.678
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst1'
+Slack : -5.676
+TNS   : -5.676
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm3|inst7'
+Slack : -5.667
+TNS   : -5.667
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm3|inst2'
+Slack : -5.665
+TNS   : -5.665
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst7'
+Slack : -5.629
+TNS   : -5.629
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst1'
+Slack : -5.627
+TNS   : -5.627
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst10'
+Slack : -5.530
+TNS   : -5.530
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst7'
+Slack : -5.505
+TNS   : -5.505
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst3'
+Slack : -5.456
+TNS   : -5.456
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm3|inst8'
+Slack : -5.425
+TNS   : -5.425
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst8'
+Slack : -5.376
+TNS   : -5.376
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm1|inst2'
+Slack : -5.321
+TNS   : -5.321
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm2|inst'
+Slack : -5.220
+TNS   : -5.220
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_multiplier:clkm3|inst1'
+Slack : -5.060
+TNS   : -5.060
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -3.623
+TNS   : -6.534
+
+Type  : Slow 1200mV 85C Model Recovery 'sqr_in'
+Slack : -0.341
+TNS   : -0.341
+
+Type  : Slow 1200mV 85C Model Removal 'sqr_in'
+Slack : -2.538
+TNS   : -4.979
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 0.930
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm3|inst1'
+Slack : 3.268
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst'
+Slack : 3.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst2'
+Slack : 3.554
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst8'
+Slack : 3.570
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm3|inst8'
+Slack : 3.641
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst3'
+Slack : 3.666
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst7'
+Slack : 3.732
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst10'
+Slack : 3.743
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst1'
+Slack : 3.834
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst1'
+Slack : 3.874
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst7'
+Slack : 3.876
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm3|inst2'
+Slack : 3.881
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst10'
+Slack : 3.884
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm3|inst7'
+Slack : 3.900
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst9'
+Slack : 3.972
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm3|inst9'
+Slack : 4.046
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst9'
+Slack : 4.155
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm3|inst'
+Slack : 4.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst2'
+Slack : 4.224
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst8'
+Slack : 4.259
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm2|inst3'
+Slack : 4.266
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_multiplier:clkm1|inst'
+Slack : 4.426
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -195.335
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'b0'
+Slack : -3.000
+TNS   : -36.410
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'b3'
+Slack : -3.000
+TNS   : -11.995
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sqr_in'
+Slack : -3.000
+TNS   : -7.041
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst3'
+Slack : -1.304
+TNS   : -133.312
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst10'
+Slack : -1.285
+TNS   : -131.370
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst3'
+Slack : -1.285
+TNS   : -123.595
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst10'
+Slack : -1.285
+TNS   : -100.365
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst7'
+Slack : -1.285
+TNS   : -74.157
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst7'
+Slack : -1.285
+TNS   : -73.992
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst1'
+Slack : -1.285
+TNS   : -72.381
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst9'
+Slack : -1.285
+TNS   : -71.318
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst1'
+Slack : -1.285
+TNS   : -71.179
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst'
+Slack : -1.285
+TNS   : -70.999
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst9'
+Slack : -1.285
+TNS   : -70.997
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst8'
+Slack : -1.285
+TNS   : -70.987
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst'
+Slack : -1.285
+TNS   : -70.961
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst2'
+Slack : -1.285
+TNS   : -70.946
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst1'
+Slack : -1.285
+TNS   : -70.890
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst8'
+Slack : -1.285
+TNS   : -70.834
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst9'
+Slack : -1.285
+TNS   : -70.834
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst8'
+Slack : -1.285
+TNS   : -70.778
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst'
+Slack : -1.285
+TNS   : -70.778
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst2'
+Slack : -1.285
+TNS   : -70.778
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst2'
+Slack : -1.285
+TNS   : -70.736
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst7'
+Slack : -1.285
+TNS   : -70.736
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controller:ctrl|as.S5'
+Slack : -0.651
+TNS   : -25.888
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controller:ctrl|as.S6'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst2'
+Slack : -59.868
+TNS   : -1033.178
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst8'
+Slack : -59.490
+TNS   : -1023.111
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst9'
+Slack : -59.229
+TNS   : -1016.240
+
+Type  : Slow 1200mV 0C Model Setup 'controller:ctrl|as.S6'
+Slack : -59.168
+TNS   : -1025.606
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst1'
+Slack : -58.768
+TNS   : -1004.371
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst7'
+Slack : -58.715
+TNS   : -1002.966
+
+Type  : Slow 1200mV 0C Model Setup 'controller:ctrl|as.S5'
+Slack : -58.697
+TNS   : -1022.275
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst'
+Slack : -58.524
+TNS   : -997.523
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst9'
+Slack : -58.124
+TNS   : -988.429
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst2'
+Slack : -58.101
+TNS   : -986.809
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst8'
+Slack : -57.612
+TNS   : -974.027
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst3'
+Slack : -57.590
+TNS   : -973.347
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst10'
+Slack : -57.509
+TNS   : -971.287
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst1'
+Slack : -57.416
+TNS   : -969.156
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst7'
+Slack : -57.026
+TNS   : -958.539
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst'
+Slack : -56.864
+TNS   : -954.615
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst9'
+Slack : -56.175
+TNS   : -936.511
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst10'
+Slack : -56.135
+TNS   : -934.599
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst3'
+Slack : -56.011
+TNS   : -931.683
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst8'
+Slack : -55.780
+TNS   : -925.829
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst2'
+Slack : -55.495
+TNS   : -917.740
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst'
+Slack : -55.251
+TNS   : -911.760
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst7'
+Slack : -55.206
+TNS   : -910.389
+
+Type  : Slow 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst1'
+Slack : -55.173
+TNS   : -909.660
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -33.629
+TNS   : -793.889
+
+Type  : Slow 1200mV 0C Model Setup 'b0'
+Slack : -3.868
+TNS   : -75.135
+
+Type  : Slow 1200mV 0C Model Setup 'b3'
+Slack : -0.605
+TNS   : -3.622
+
+Type  : Slow 1200mV 0C Model Setup 'sqr_in'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst1'
+Slack : -7.663
+TNS   : -74.151
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst7'
+Slack : -7.624
+TNS   : -73.487
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst'
+Slack : -7.534
+TNS   : -72.587
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst2'
+Slack : -7.336
+TNS   : -70.607
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst3'
+Slack : -7.002
+TNS   : -67.267
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst8'
+Slack : -6.948
+TNS   : -66.727
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst10'
+Slack : -6.901
+TNS   : -66.257
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst9'
+Slack : -6.494
+TNS   : -62.187
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst'
+Slack : -5.685
+TNS   : -54.312
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst7'
+Slack : -5.546
+TNS   : -52.707
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst3'
+Slack : -5.177
+TNS   : -49.017
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst1'
+Slack : -5.141
+TNS   : -48.853
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst10'
+Slack : -5.114
+TNS   : -48.387
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst8'
+Slack : -4.904
+TNS   : -46.355
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst2'
+Slack : -4.395
+TNS   : -41.197
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst9'
+Slack : -4.346
+TNS   : -40.707
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -4.177
+TNS   : -128.926
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst'
+Slack : -3.975
+TNS   : -37.036
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst7'
+Slack : -3.762
+TNS   : -34.867
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst1'
+Slack : -3.722
+TNS   : -34.529
+
+Type  : Slow 1200mV 0C Model Hold 'sqr_in'
+Slack : -3.469
+TNS   : -7.106
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst9'
+Slack : -3.254
+TNS   : -29.787
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst8'
+Slack : -2.932
+TNS   : -26.567
+
+Type  : Slow 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst2'
+Slack : -2.471
+TNS   : -21.977
+
+Type  : Slow 1200mV 0C Model Hold 'controller:ctrl|as.S5'
+Slack : -2.288
+TNS   : -20.777
+
+Type  : Slow 1200mV 0C Model Hold 'controller:ctrl|as.S6'
+Slack : -1.700
+TNS   : -14.651
+
+Type  : Slow 1200mV 0C Model Hold 'b0'
+Slack : -0.396
+TNS   : -3.951
+
+Type  : Slow 1200mV 0C Model Hold 'b3'
+Slack : 1.082
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst'
+Slack : -5.583
+TNS   : -5.583
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst3'
+Slack : -5.442
+TNS   : -5.442
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst8'
+Slack : -5.429
+TNS   : -5.429
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst2'
+Slack : -5.418
+TNS   : -5.418
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst'
+Slack : -5.368
+TNS   : -5.368
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst9'
+Slack : -5.341
+TNS   : -5.341
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst9'
+Slack : -5.223
+TNS   : -5.223
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst9'
+Slack : -5.197
+TNS   : -5.197
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst10'
+Slack : -5.114
+TNS   : -5.114
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst2'
+Slack : -5.112
+TNS   : -5.112
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst1'
+Slack : -5.111
+TNS   : -5.111
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst7'
+Slack : -5.096
+TNS   : -5.096
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst7'
+Slack : -5.092
+TNS   : -5.092
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst1'
+Slack : -5.072
+TNS   : -5.072
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst10'
+Slack : -4.965
+TNS   : -4.965
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst7'
+Slack : -4.950
+TNS   : -4.950
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst3'
+Slack : -4.902
+TNS   : -4.902
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst8'
+Slack : -4.877
+TNS   : -4.877
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst8'
+Slack : -4.852
+TNS   : -4.852
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst2'
+Slack : -4.828
+TNS   : -4.828
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst'
+Slack : -4.697
+TNS   : -4.697
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst1'
+Slack : -4.552
+TNS   : -4.552
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -3.272
+TNS   : -5.847
+
+Type  : Slow 1200mV 0C Model Recovery 'sqr_in'
+Slack : -0.187
+TNS   : -0.187
+
+Type  : Slow 1200mV 0C Model Removal 'sqr_in'
+Slack : -2.240
+TNS   : -4.447
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 0.922
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst1'
+Slack : 3.003
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst'
+Slack : 3.141
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst2'
+Slack : 3.270
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst8'
+Slack : 3.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst8'
+Slack : 3.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst3'
+Slack : 3.364
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst7'
+Slack : 3.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst10'
+Slack : 3.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst1'
+Slack : 3.520
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst7'
+Slack : 3.550
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst1'
+Slack : 3.560
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst10'
+Slack : 3.564
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst2'
+Slack : 3.564
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst7'
+Slack : 3.566
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst9'
+Slack : 3.648
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst9'
+Slack : 3.699
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst9'
+Slack : 3.805
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst'
+Slack : 3.827
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst2'
+Slack : 3.878
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst8'
+Slack : 3.897
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst3'
+Slack : 3.905
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst'
+Slack : 4.051
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -195.335
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'b0'
+Slack : -3.000
+TNS   : -36.410
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'b3'
+Slack : -3.000
+TNS   : -11.995
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sqr_in'
+Slack : -3.000
+TNS   : -6.855
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst10'
+Slack : -1.285
+TNS   : -116.749
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst3'
+Slack : -1.285
+TNS   : -116.301
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst3'
+Slack : -1.285
+TNS   : -104.167
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst10'
+Slack : -1.285
+TNS   : -83.013
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst7'
+Slack : -1.285
+TNS   : -61.644
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst2'
+Slack : -1.285
+TNS   : -60.417
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst7'
+Slack : -1.285
+TNS   : -60.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst1'
+Slack : -1.285
+TNS   : -59.375
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst'
+Slack : -1.285
+TNS   : -59.143
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst9'
+Slack : -1.285
+TNS   : -58.397
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst8'
+Slack : -1.285
+TNS   : -58.215
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst'
+Slack : -1.285
+TNS   : -57.929
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst1'
+Slack : -1.285
+TNS   : -57.871
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst7'
+Slack : -1.285
+TNS   : -57.813
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst1'
+Slack : -1.285
+TNS   : -57.813
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst9'
+Slack : -1.285
+TNS   : -57.813
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst9'
+Slack : -1.285
+TNS   : -57.775
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst8'
+Slack : -1.285
+TNS   : -57.735
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst2'
+Slack : -1.285
+TNS   : -57.723
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst2'
+Slack : -1.285
+TNS   : -57.719
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst'
+Slack : -1.285
+TNS   : -57.719
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst8'
+Slack : -1.285
+TNS   : -57.709
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controller:ctrl|as.S5'
+Slack : -0.609
+TNS   : -21.687
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controller:ctrl|as.S6'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst2'
+Slack : -31.963
+TNS   : -554.822
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst8'
+Slack : -31.762
+TNS   : -549.546
+
+Type  : Fast 1200mV 0C Model Setup 'controller:ctrl|as.S6'
+Slack : -31.605
+TNS   : -551.734
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst9'
+Slack : -31.584
+TNS   : -545.368
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst1'
+Slack : -31.336
+TNS   : -539.190
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst7'
+Slack : -31.331
+TNS   : -538.950
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm3|inst'
+Slack : -31.191
+TNS   : -535.560
+
+Type  : Fast 1200mV 0C Model Setup 'controller:ctrl|as.S5'
+Slack : -31.156
+TNS   : -545.672
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst9'
+Slack : -31.001
+TNS   : -531.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst2'
+Slack : -30.966
+TNS   : -530.010
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst8'
+Slack : -30.710
+TNS   : -523.554
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst3'
+Slack : -30.692
+TNS   : -523.006
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst10'
+Slack : -30.614
+TNS   : -521.168
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst1'
+Slack : -30.604
+TNS   : -520.948
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst7'
+Slack : -30.384
+TNS   : -515.468
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm2|inst'
+Slack : -30.302
+TNS   : -513.436
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst9'
+Slack : -29.917
+TNS   : -503.776
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst10'
+Slack : -29.875
+TNS   : -502.614
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst3'
+Slack : -29.818
+TNS   : -501.232
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst8'
+Slack : -29.695
+TNS   : -498.184
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst2'
+Slack : -29.495
+TNS   : -493.254
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst'
+Slack : -29.378
+TNS   : -490.322
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst7'
+Slack : -29.347
+TNS   : -489.456
+
+Type  : Fast 1200mV 0C Model Setup 'clk_multiplier:clkm1|inst1'
+Slack : -29.328
+TNS   : -489.042
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -17.957
+TNS   : -404.948
+
+Type  : Fast 1200mV 0C Model Setup 'b0'
+Slack : -1.601
+TNS   : -30.046
+
+Type  : Fast 1200mV 0C Model Setup 'b3'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sqr_in'
+Slack : 0.875
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst1'
+Slack : -4.322
+TNS   : -41.830
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst7'
+Slack : -4.301
+TNS   : -41.462
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst'
+Slack : -4.232
+TNS   : -40.769
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst2'
+Slack : -4.115
+TNS   : -39.659
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst3'
+Slack : -3.923
+TNS   : -37.813
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst8'
+Slack : -3.916
+TNS   : -37.743
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst10'
+Slack : -3.872
+TNS   : -37.282
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm1|inst9'
+Slack : -3.694
+TNS   : -35.481
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst'
+Slack : -3.307
+TNS   : -31.764
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst7'
+Slack : -3.233
+TNS   : -30.852
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst3'
+Slack : -3.106
+TNS   : -29.576
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst1'
+Slack : -3.056
+TNS   : -29.254
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst10'
+Slack : -3.055
+TNS   : -29.039
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst8'
+Slack : -2.933
+TNS   : -27.963
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst2'
+Slack : -2.688
+TNS   : -25.359
+
+Type  : Fast 1200mV 0C Model Hold 'sqr_in'
+Slack : -2.668
+TNS   : -5.027
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm2|inst9'
+Slack : -2.665
+TNS   : -25.129
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -2.522
+TNS   : -87.503
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst'
+Slack : -2.486
+TNS   : -23.410
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst7'
+Slack : -2.389
+TNS   : -22.414
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst1'
+Slack : -2.377
+TNS   : -22.391
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst9'
+Slack : -2.146
+TNS   : -19.939
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst8'
+Slack : -1.992
+TNS   : -18.454
+
+Type  : Fast 1200mV 0C Model Hold 'controller:ctrl|as.S5'
+Slack : -1.761
+TNS   : -15.910
+
+Type  : Fast 1200mV 0C Model Hold 'clk_multiplier:clkm3|inst2'
+Slack : -1.746
+TNS   : -15.939
+
+Type  : Fast 1200mV 0C Model Hold 'controller:ctrl|as.S6'
+Slack : -1.336
+TNS   : -12.237
+
+Type  : Fast 1200mV 0C Model Hold 'b0'
+Slack : -0.418
+TNS   : -6.452
+
+Type  : Fast 1200mV 0C Model Hold 'b3'
+Slack : 0.423
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst'
+Slack : -3.147
+TNS   : -3.147
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst3'
+Slack : -3.054
+TNS   : -3.054
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst2'
+Slack : -3.034
+TNS   : -3.034
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst8'
+Slack : -3.024
+TNS   : -3.024
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst'
+Slack : -3.014
+TNS   : -3.014
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst9'
+Slack : -2.974
+TNS   : -2.974
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst9'
+Slack : -2.921
+TNS   : -2.921
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst9'
+Slack : -2.895
+TNS   : -2.895
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst1'
+Slack : -2.853
+TNS   : -2.853
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst7'
+Slack : -2.847
+TNS   : -2.847
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst2'
+Slack : -2.842
+TNS   : -2.842
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst10'
+Slack : -2.836
+TNS   : -2.836
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst1'
+Slack : -2.826
+TNS   : -2.826
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst7'
+Slack : -2.812
+TNS   : -2.812
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst10'
+Slack : -2.769
+TNS   : -2.769
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst7'
+Slack : -2.758
+TNS   : -2.758
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst3'
+Slack : -2.730
+TNS   : -2.730
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst8'
+Slack : -2.705
+TNS   : -2.705
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst8'
+Slack : -2.684
+TNS   : -2.684
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm1|inst2'
+Slack : -2.651
+TNS   : -2.651
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm2|inst'
+Slack : -2.607
+TNS   : -2.607
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_multiplier:clkm3|inst1'
+Slack : -2.513
+TNS   : -2.513
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -2.107
+TNS   : -3.122
+
+Type  : Fast 1200mV 0C Model Recovery 'sqr_in'
+Slack : -0.459
+TNS   : -0.459
+
+Type  : Fast 1200mV 0C Model Removal 'sqr_in'
+Slack : -1.740
+TNS   : -3.035
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst1'
+Slack : 1.836
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst'
+Slack : 1.942
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst2'
+Slack : 1.968
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst8'
+Slack : 2.001
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst8'
+Slack : 2.035
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst3'
+Slack : 2.060
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst7'
+Slack : 2.099
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst10'
+Slack : 2.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst7'
+Slack : 2.138
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst1'
+Slack : 2.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst10'
+Slack : 2.159
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst2'
+Slack : 2.165
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst1'
+Slack : 2.174
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst7'
+Slack : 2.184
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst9'
+Slack : 2.218
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst9'
+Slack : 2.261
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst9'
+Slack : 2.305
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm3|inst'
+Slack : 2.343
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst8'
+Slack : 2.359
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst2'
+Slack : 2.363
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm2|inst3'
+Slack : 2.385
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_multiplier:clkm1|inst'
+Slack : 2.480
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -171.914
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'b0'
+Slack : -3.000
+TNS   : -36.668
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'b3'
+Slack : -3.000
+TNS   : -14.329
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sqr_in'
+Slack : -3.000
+TNS   : -10.833
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst3'
+Slack : -1.000
+TNS   : -42.315
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst10'
+Slack : -1.000
+TNS   : -40.976
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst3'
+Slack : -1.000
+TNS   : -38.944
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst1'
+Slack : -1.000
+TNS   : -26.832
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst7'
+Slack : -1.000
+TNS   : -26.830
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst10'
+Slack : -1.000
+TNS   : -25.595
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst'
+Slack : -1.000
+TNS   : -25.414
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst2'
+Slack : -1.000
+TNS   : -25.229
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst8'
+Slack : -1.000
+TNS   : -23.061
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm1|inst9'
+Slack : -1.000
+TNS   : -21.388
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst'
+Slack : -1.000
+TNS   : -19.592
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst7'
+Slack : -1.000
+TNS   : -18.856
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst1'
+Slack : -1.000
+TNS   : -18.010
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst8'
+Slack : -1.000
+TNS   : -16.523
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst9'
+Slack : -1.000
+TNS   : -15.683
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm2|inst2'
+Slack : -1.000
+TNS   : -15.273
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst7'
+Slack : -1.000
+TNS   : -14.220
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst'
+Slack : -1.000
+TNS   : -13.731
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst1'
+Slack : -1.000
+TNS   : -13.526
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst9'
+Slack : -1.000
+TNS   : -13.066
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst2'
+Slack : -1.000
+TNS   : -12.328
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_multiplier:clkm3|inst8'
+Slack : -1.000
+TNS   : -12.294
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controller:ctrl|as.S5'
+Slack : -0.328
+TNS   : -6.951
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controller:ctrl|as.S6'
+Slack : 0.266
+TNS   : 0.000
+
+------------------------------------------------------------

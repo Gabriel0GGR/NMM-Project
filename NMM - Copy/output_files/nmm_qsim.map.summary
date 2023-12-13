@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Dec 11 23:05:18 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : nmm_qsim
+Top-level Entity Name : nmm
+Family : Cyclone IV E
+Total logic elements : 36
+    Total combinational functions : 15
+    Dedicated logic registers : 24
+Total registers : 24
+Total pins : 54
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,114 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dE:\altera\13.1\NMM\simulation\qsim
+!s11f MIXED_VERSIONS
+vhard_block
+Z1 !s110 1702347464
+!i10b 1
+!s100 ddH[GgT2EZliTBD9`[6BF3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITcJo42VDBnDZFmd7ECON@1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dK:/Data/Save/NMM - Copy/simulation/qsim
+Z5 w1702347463
+Z6 8nmm_qsim.vo
+Z7 Fnmm_qsim.vo
+!i122 6
+L0 2004 34
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1702347464.000000
+Z10 !s107 nmm_qsim.vo|
+Z11 !s90 -work|work|nmm_qsim.vo|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+vnmm
+R1
+!i10b 1
+!s100 KaX55_z^mDo8^keezk:X`2
+R2
+IkF9fIP0H_Cf84J2=RgQj32
+R3
+R4
+R5
+R6
+R7
+!i122 6
+L0 32 1971
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vnmm_vlg_check_tst
+IicWH9aTG1Uf8CB2zND=[b0
+VO^2N>96h2AXFeL4YR]c?K2
+R0
+Z14 w1699724853
+Z15 8Waveform2.vwf.vt
+Z16 FWaveform2.vwf.vt
+L0 69
+Z17 OV;L;10.1d;51
+r1
+31
+Z18 !s108 1699724855.528000
+Z19 !s107 Waveform2.vwf.vt|
+Z20 !s90 -work|work|Waveform2.vwf.vt|
+Z21 o-work work -O0
+!s100 ^WbKJ5C<9bkZ<9B_:0DS41
+!i10b 1
+!s85 0
+!s101 -O0
+vnmm_vlg_sample_tst
+IB]AQc4OF?m@H]GITZjnoK2
+V4Y370LBWFFj?6gfdWaz1_2
+R0
+R14
+R15
+R16
+L0 29
+R17
+r1
+31
+R18
+R19
+R20
+R21
+!s100 Qk_hh4mkKNz@fYECJB:a<2
+!i10b 1
+!s85 0
+!s101 -O0
+vnmm_vlg_vec_tst
+R1
+!i10b 1
+!s100 @_foLQ4V]J?f^LejTRP:c2
+R2
+I?;065>L@gmUWQIRDILW3W3
+R3
+R4
+w1702347462
+8Waveform4.vwf.vt
+FWaveform4.vwf.vt
+!i122 7
+L0 30 89
+R8
+r1
+!s85 0
+31
+R9
+!s107 Waveform4.vwf.vt|
+!s90 -work|work|Waveform4.vwf.vt|
+!i113 1
+R12
+R13

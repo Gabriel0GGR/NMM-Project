@@ -1,0 +1,28 @@
+# do clk_multiplier.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module clk_multiplier
+# 
+# Top level modules:
+# 	clk_multiplier
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module clk_multiplier_vlg_sample_tst
+# -- Compiling module clk_multiplier_vlg_check_tst
+# -- Compiling module clk_multiplier_vlg_vec_tst
+# 
+# Top level modules:
+# 	clk_multiplier_vlg_vec_tst
+# vsim -L cycloneiv_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -voptargs=\"+acc\" -t 1ps -novopt work.clk_multiplier_vlg_vec_tst 
+# Loading work.clk_multiplier_vlg_vec_tst
+# Loading work.clk_multiplier
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading work.clk_multiplier_vlg_sample_tst
+# Loading work.clk_multiplier_vlg_check_tst
+# Loading altera_ver.PRIM_GDFF_LOW
+# Simulation passed !
+# ** Note: $finish    : Waveform.vwf.vt(320)
+#    Time: 1 us  Iteration: 0  Instance: /clk_multiplier_vlg_vec_tst/tb_out
