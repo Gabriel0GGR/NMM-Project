@@ -1,0 +1,11 @@
+
+State Machine - |controller|as
+Name as.S7 as.S6 as.S5 as.S4 as.S3 as.S2 as.S1 as.S0 
+as.S0 0 0 0 0 0 0 0 0 
+as.S1 0 0 0 0 0 0 1 1 
+as.S2 0 0 0 0 0 1 0 1 
+as.S3 0 0 0 0 1 0 0 1 
+as.S4 0 0 0 1 0 0 0 1 
+as.S5 0 0 1 0 0 0 0 1 
+as.S6 0 1 0 0 0 0 0 1 
+as.S7 1 0 0 0 0 0 0 1 
